@@ -1,0 +1,29 @@
+{
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "symbols",
+    "update.mode": "start",
+    "explorer.compactFolders": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.4,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "workbench.colorTheme": "Default Dark+",
+    "window.titleBarStyle": "custom"
+}
